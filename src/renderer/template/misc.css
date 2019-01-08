@@ -368,7 +368,7 @@ strong {
   width: auto !important;
 }
 
-.editor.preview .task-list-item {
+.editor.preview > ul > .task-list-item {
   margin-left: -1.6em;
 }
 
